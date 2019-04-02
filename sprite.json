@@ -1,0 +1,100 @@
+{
+  "bluebaby": {
+    "height": 375,
+    "pixelRatio": 1,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "blueblade": {
+    "height": 375,
+    "pixelRatio": 1,
+    "width": 375,
+    "x": 375,
+    "y": 0
+  },
+  "bluecross": {
+    "height": 375,
+    "pixelRatio": 1,
+    "width": 375,
+    "x": 0,
+    "y": 375
+  },
+  "bluepillbox": {
+    "height": 375,
+    "pixelRatio": 1,
+    "width": 375,
+    "x": 375,
+    "y": 375
+  },
+  "bluestetoscope": {
+    "height": 375,
+    "pixelRatio": 1,
+    "width": 375,
+    "x": 750,
+    "y": 0
+  },
+  "bluesyringe": {
+    "height": 375,
+    "pixelRatio": 1,
+    "width": 375,
+    "x": 1125,
+    "y": 0
+  },
+  "bluetooth": {
+    "height": 375,
+    "pixelRatio": 1,
+    "width": 375,
+    "x": 750,
+    "y": 375
+  },
+  "redbaby": {
+    "height": 375,
+    "pixelRatio": 1,
+    "width": 375,
+    "x": 1125,
+    "y": 375
+  },
+  "redblade": {
+    "height": 375,
+    "pixelRatio": 1,
+    "width": 375,
+    "x": 0,
+    "y": 750
+  },
+  "redcross": {
+    "height": 375,
+    "pixelRatio": 1,
+    "width": 375,
+    "x": 375,
+    "y": 750
+  },
+  "redpillbox": {
+    "height": 375,
+    "pixelRatio": 1,
+    "width": 375,
+    "x": 750,
+    "y": 750
+  },
+  "redstetoscope": {
+    "height": 375,
+    "pixelRatio": 1,
+    "width": 375,
+    "x": 1125,
+    "y": 750
+  },
+  "redsyringe": {
+    "height": 375,
+    "pixelRatio": 1,
+    "width": 375,
+    "x": 0,
+    "y": 1125
+  },
+  "redtooth": {
+    "height": 375,
+    "pixelRatio": 1,
+    "width": 375,
+    "x": 375,
+    "y": 1125
+  }
+}
